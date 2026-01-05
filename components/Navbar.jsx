@@ -5,7 +5,7 @@ const Navbar = () => {
     <header
       className="w-full flex items-center justify-between
                  h-16 sm:h-18 md:h-20
-                 px-4 sm:px-6 md:px-12 lg:px-40"
+                 px-4 sm:px-6 md:px-12 lg:px-40 z-50 shadow-md"
       style={{ backgroundColor: "#D9D375" }}
     >
       {/* Logo Text */}

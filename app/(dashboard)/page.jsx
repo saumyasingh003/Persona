@@ -39,7 +39,7 @@ const Dashboard = () => {
 
         <div className="space-y-4">
           <Calendar />
-          <div className="flex flex-wrap items-center justify-center gap-2 sm:gap-4 mb-14">
+          <div className="flex flex-wrap items-center justify-center gap-2 sm:gap-4 mb-14 md:mb-0">
             <Image
               src="/panda1.png"
               alt="Panda 1"
