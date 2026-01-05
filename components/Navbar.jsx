@@ -8,12 +8,12 @@ const Navbar = () => {
                  px-4 sm:px-6 md:px-12 lg:px-40 z-50 shadow-md"
       style={{ backgroundColor: "#D9D375" }}
     >
-      {/* Logo Text */}
+  
       <span className="text-lg sm:text-xl italic font-semibold text-gray-900">
         Persona
       </span>
 
-      {/* Image Logo */}
+      
       <Image
         src="/logo.png"
         alt="Persona Logo"
